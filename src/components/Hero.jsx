@@ -21,7 +21,7 @@ export default function Hero({ onOpenBooking }) {
           {/* Top Badges */}
           <div className="flex flex-wrap items-center gap-3">
             <span className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/5 border border-white/10 text-[11px] font-medium tracking-[0.2em] uppercase text-zinc-300">
-              <MapPin className="w-3 h-3 text-white" /> Based in Dubai, UAE
+              <MapPin className="w-3 h-3 text-white" /> Based in Sri Lanka
             </span>
             <span className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 text-white text-[11px] font-semibold tracking-[0.2em] uppercase border border-white/20 shadow-md">
               <Award className="w-3 h-3" /> 10+ Years Experience
@@ -88,7 +88,7 @@ export default function Hero({ onOpenBooking }) {
               <div className="relative rounded-2xl bg-gradient-to-b from-obsidian-950 to-obsidian-900 border border-white/10 overflow-hidden flex items-end justify-center min-h-[420px] pt-6">
                 <img
                   src="/images/nisal_portrait.png"
-                  alt="Nisal Hesara Photographer in Dubai"
+                  alt="Nisal Hesara Photographer in Sri Lanka"
                   className="w-full max-w-[340px] h-auto object-contain transition-transform duration-700 hover:scale-105 drop-shadow-2xl"
                 />
               </div>

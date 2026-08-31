@@ -61,7 +61,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500 font-mono">
           <div className="flex items-center gap-2">
             <MapPin className="w-3 h-3 text-zinc-400" />
-            <span>DUBAI, UNITED ARAB EMIRATES</span>
+            <span>SRI LANKA</span>
           </div>
           <div>
             © {new Date().getFullYear()} NISH PHOTOGRAPHY · ALL RIGHTS RESERVED.

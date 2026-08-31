@@ -16,7 +16,7 @@ export default function ContactSection() {
             LET'S CREATE TOGETHER
           </h2>
           <p className="text-zinc-400 text-sm sm:text-base font-light">
-            Based in Dubai, UAE. Available for regional & international commissions.
+            Based in Sri Lanka. Available for regional & international commissions.
           </p>
         </div>
 
@@ -71,7 +71,7 @@ export default function ContactSection() {
                 {photographerInfo.phone}
               </h3>
               <p className="text-xs text-zinc-400 font-light">
-                Direct phone call or instant WhatsApp message in Dubai.
+                Direct phone call or instant WhatsApp message.
               </p>
             </div>
             <a
@@ -96,7 +96,7 @@ export default function ContactSection() {
               <span className="text-xs font-mono uppercase tracking-widest text-zinc-400 font-semibold block">
                 LOCATION & BASE
               </span>
-              <span className="text-white font-semibold text-sm">Dubai, United Arab Emirates</span>
+              <span className="text-white font-semibold text-sm">Sri Lanka</span>
             </div>
           </div>
 
