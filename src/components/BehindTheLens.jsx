@@ -6,7 +6,7 @@ export default function BehindTheLens() {
   const highlights = [
     {
       icon: <BookOpen className="w-6 h-6 text-white" />,
-      title: "Grade 12 Beginnings",
+      title: "Grade 7 Beginnings",
       desc: "First spark of passion in school photography club, learning manual camera controls & lighting fundamentals.",
     },
     {
@@ -65,7 +65,7 @@ export default function BehindTheLens() {
 
             <div className="space-y-6 text-zinc-300 font-light leading-relaxed text-base sm:text-lg">
               <p>
-                Photography has been part of my journey since school, beginning with the <strong className="text-white font-semibold">Photography Club in Grade 12</strong> and eventually becoming its <strong className="text-white font-semibold">President</strong>.
+                Photography has been part of my journey since school, beginning with the <strong className="text-white font-semibold">Photography Club in Grade 7</strong> and eventually becoming its <strong className="text-white font-semibold">President</strong>.
               </p>
               <p>
                 My early involvement in photography competitions, inter-school media camps, and the <strong className="text-white font-semibold">All Island School Photography Association</strong> shaped my passion for visual storytelling and creative collaboration.
