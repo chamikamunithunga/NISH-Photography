@@ -6,7 +6,7 @@ export default function BehindTheLens() {
   const highlights = [
     {
       icon: <BookOpen className="w-6 h-6 text-white" />,
-      title: "Grade 12 Beginnings",
+      title: "Grade 7 Beginnings",
       desc: "First spark of passion in school photography club, learning manual camera controls & lighting fundamentals.",
     },
     {
@@ -37,7 +37,7 @@ export default function BehindTheLens() {
               <div className="rounded-2xl overflow-hidden border border-white/10 aspect-[3/4]">
                 <img
                   src="/images/nisal_behind_the_lens.jpg"
-                  alt="Nisal Hesara Behind the lens in Dubai"
+                  alt="Nisal Hesara Behind the lens in Sri Lanka"
                   className="w-full h-full object-cover img-editorial"
                 />
               </div>
@@ -65,13 +65,13 @@ export default function BehindTheLens() {
 
             <div className="space-y-6 text-zinc-300 font-light leading-relaxed text-base sm:text-lg">
               <p>
-                Photography has been part of my journey since school, beginning with the <strong className="text-white font-semibold">Photography Club in Grade 12</strong> and eventually becoming its <strong className="text-white font-semibold">President</strong>.
+                Photography has been part of my journey since school, beginning with the <strong className="text-white font-semibold">Photography Club in Grade 7</strong> and eventually becoming its <strong className="text-white font-semibold">President</strong>.
               </p>
               <p>
                 My early involvement in photography competitions, inter-school media camps, and the <strong className="text-white font-semibold">All Island School Photography Association</strong> shaped my passion for visual storytelling and creative collaboration.
               </p>
               <p className="text-white font-serif text-xl italic border-l-2 border-white pl-4">
-                Today, that same curiosity continues to influence every frame I create across Dubai, UAE, and international projects.
+                Today, that same curiosity continues to influence every frame I create across Sri Lanka and international projects.
               </p>
             </div>
 
